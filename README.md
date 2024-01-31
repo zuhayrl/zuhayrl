@@ -13,6 +13,7 @@ I’m an Electrical and Computer Engineering student who enjoys programing.<br>I
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Languages I was forced into using:
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=Julia)
 
 
 ## Technologies I dabble in:
