@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Electrical and Computer Engineering student who enjoys programing.<br>I work on random projects that i get i use to cure my boredom and learn new skills.
+I’m an Electrical and Computer Engineering student who enjoys programing.<br>I work on random projects that I use to cure my boredom and learn new skills.
 
 
 # 💻 Tech Stack:
